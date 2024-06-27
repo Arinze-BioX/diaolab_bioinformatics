@@ -1,4 +1,4 @@
-<img src=".\images_and_figures\Lab_example_plots.png" alt="Example figure panels from Diao lab publications" class="center"/>
+<img src="./images_and_figures/Lab_example_plots.png" alt="Example figure panels from Diao lab publications" class="center"/>
 
 # Diao Lab Bioinformatics Repository
 ---------------------------------------------------------------------
